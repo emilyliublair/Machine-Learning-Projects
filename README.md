@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine Learning Projects
 
 ### Description
 These are 4 machine learning-centered projects I built using Tensorflow and Python. Made from Google Colaboratory. 
@@ -13,4 +13,4 @@ This is a book recommendation algorithm using K-Nearest Neighbors that takes in 
 This machine learning model predicts healthcare costs based on sex, if the patient smokes, region, age, bmi, and number of children using a regression algorithm. Retrieved data from https://cdn.freecodecamp.org/project-data/health-costs/insurance.csv. The model contains 3 dense layers activated by the ReLU activation function. Achieves a Mean Absolute Error of 1824.48 expenses. 
 
 #### Text Classification Using LSTM
-This machine leanring model will classify SMS messages as either 'ham' (sent by a friend) or 'spam'(sent by a company or is a advertisement message). Retrieved data from https://cdn.freecodecamp.org/project-data/sms/train-data.tsv, https://cdn.freecodecamp.org/project-data/sms/valid-data.tsv. The model is made up of an LSTM layer and a dense layer with the activation function 'sigmoid'. 
+This machine leanring model will classify SMS messages as either 'ham' (sent by a friend) or 'spam'(sent by a company or is a advertisement message). Retrieved data from https://cdn.freecodecamp.org/project-data/sms/train-data.tsv, https://cdn.freecodecamp.org/project-data/sms/valid-data.tsv. The model is made up of an LSTM layer and a dense layer with the activation function 'sigmoid'. Near 98% accuracy. 
